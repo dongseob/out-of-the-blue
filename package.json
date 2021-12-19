@@ -25,5 +25,8 @@
     "imagesloaded": "^4.1.4",
     "parcel": "latest",
     "split-type": "^0.2.5"
+  },
+  "devDependencies": {
+    "cssnano": "^5.0.13"
   }
 }

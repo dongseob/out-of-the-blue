@@ -3,3 +3,7 @@
 * 2021.12.20
     - kursor library 추가
     - custom scrollbar 적용
+    - point color '#3E6695' 지정
+
+* 2021.12.21
+    - 프로젝트명 out of the blue 변경

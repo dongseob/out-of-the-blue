@@ -1,0 +1,25 @@
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 7px;
+}
+::-webkit-scrollbar-track {
+    background-color: #ebebeb;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+}
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    background: #999; 
+}
+
+/* kursor - defailt cursor display none */
+*, *:hover{
+    cursor: none !important;
+}
+
+/* text drag color */
+::selection {
+    background-color: black;
+    color: #dc481e;
+}

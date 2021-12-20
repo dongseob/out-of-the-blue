@@ -1,0 +1,5 @@
+[2021.12.20 프로젝트 생성]
+
+* 2021.12.20
+    - kursor library 추가
+    - custom scrollbar 적용

@@ -1,48 +1,17 @@
-# Grid Zoom Layout
+# Seob
 
-A simple image grid layout where a small grid image zooms to become larger while a content view opens.
+It is a gallery-type personal workspace with grid layout.
 
 ![Image Title](https://tympanus.net/codrops/wp-content/uploads/2021/12/GridZoom_feat.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=57586)
-
-[Demo](http://tympanus.net/Development/GridZoom/)
+<jds3567@gmail.com.com>
 
 
-## Installation
+## Status
 
-Install dependencies:
-
-```
-npm install
-```
-
-Compile the code for development and start a local server:
-
-```
-npm start
-```
-
-Create the build:
-
-```
-npm run build
-```
-
-## Credits
-
-- Images from [Unsplash](https://unsplash.com/)
-
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
-
-## License
-[MIT](LICENSE)
-
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
-
-
-
-
-
+[![Github All Releases](https://img.shields.io/github/languages/count/dongseob/seob )]()<!-- 사용언어 수 -->
+[![Github All Releases](https://img.shields.io/github/languages/top/dongseob/seob )]()<!-- 최다사용언어 -->
+[![Github All Releases](https://img.shields.io/github/downloads/dongseob/seob/total.svg)]()<!-- 레포 다운로드 수 -->
+[![Github All Releases](https://img.shields.io/github/repo-size/dongseob/seob)]()<!-- 레포 사이즈 -->
+[![Github All Releases](https://img.shields.io/github/commit-activity/m/dongseob/seob)]()<!-- 달에 몇번 커밋했는지 -->
+[![Github All Releases](https://img.shields.io/github/last-commit/dongseob/seob)]()<!-- 마지막커밋 날짜 -->

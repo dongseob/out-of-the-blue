@@ -5,7 +5,7 @@ It is a gallery-type personal workspace with grid layout.
 ![Image Title](https://tympanus.net/codrops/wp-content/uploads/2021/12/GridZoom_feat.jpg)
 
 <p align="center">
-  <a href="https://dongseob.github.io/seob/"><strong>Explore Page »</strong></a>
+  <a href="https://dongseob.github.io/out-of-the-blue/"><strong>Explore Page »</strong></a>
 </p>
 
 <p align="center">

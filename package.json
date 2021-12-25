@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codrops/[NAME].git"
+    "url": "git://github.com/dongseob/out-of-the-blue.git"
   },
   "keywords": [],
   "author": "Codrops",
   "license": "MIT",
-  "homepage": "https://tympanus.net/codrops",
+  "homepage": "https://dongseob.github.io/out-of-the-blue",
   "bugs": {
-    "url": "https://github.com/codrops/[NAME]/issues"
+    "url": "https://github.com/dongseob/out-of-the-blue/issues"
   },
   "dependencies": {
     "gsap": "^3.8.0",

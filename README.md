@@ -4,7 +4,15 @@ It is a gallery-type personal workspace with grid layout.
 
 ![Image Title](https://tympanus.net/codrops/wp-content/uploads/2021/12/GridZoom_feat.jpg)
 
-<jds3567@gmail.com.com>
+<p align="center">
+  <a href="https://dongseob.github.io/seob/"><strong>Explore Page »</strong></a>
+</p>
+
+<p align="center">
+    <a href="mailto:jds3567@gmail.com">
+        jds3567@gmail.com.com
+    </a>
+</p>
 
 
 ## Status

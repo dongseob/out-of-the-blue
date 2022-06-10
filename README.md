@@ -1,10 +1,10 @@
 # out of the blue
 
-## Content
+## Documentation
 
 It is a gallery-type personal workspace with grid layout.
 
-![Image Title](https://tympanus.net/codrops/wp-content/uploads/2021/12/GridZoom_feat.jpg)
+![Image Title](/src/img/ootb_readme.png)
 
 <p align="center">
   <a href="https://dongseob.github.io/out-of-the-blue/" target="_blank"><strong>Explore Page »</strong></a>

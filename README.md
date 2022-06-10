@@ -17,9 +17,9 @@ It is a gallery-type personal workspace with grid layout.
 
 ## Status
 
-[![Github All Releases](https://img.shields.io/github/languages/count/dongseob/seob )]()<!-- 사용언어 수 -->
-[![Github All Releases](https://img.shields.io/github/languages/top/dongseob/seob )]()<!-- 최다사용언어 -->
-[![Github All Releases](https://img.shields.io/github/downloads/dongseob/seob/total.svg)]()<!-- 레포 다운로드 수 -->
-[![Github All Releases](https://img.shields.io/github/repo-size/dongseob/seob)]()<!-- 레포 사이즈 -->
-[![Github All Releases](https://img.shields.io/github/commit-activity/m/dongseob/seob)]()<!-- 달에 몇번 커밋했는지 -->
-[![Github All Releases](https://img.shields.io/github/last-commit/dongseob/seob)]()<!-- 마지막커밋 날짜 -->
+[![Github All Releases](https://img.shields.io/github/languages/count/dongseob/out-of-the-blue )]()<!-- 사용언어 수 -->
+[![Github All Releases](https://img.shields.io/github/languages/top/dongseob/out-of-the-blue )]()<!-- 최다사용언어 -->
+[![Github All Releases](https://img.shields.io/github/downloads/dongseob/out-of-the-blue)]()<!-- 레포 다운로드 수 -->
+[![Github All Releases](https://img.shields.io/github/repo-size/dongseob/out-of-the-blue)]()<!-- 레포 사이즈 -->
+[![Github All Releases](https://img.shields.io/github/commit-activity/m/dongseob/out-of-the-blue)]()<!-- 달에 몇번 커밋했는지 -->
+[![Github All Releases](https://img.shields.io/github/last-commit/dongseob/out-of-the-blue)]()<!-- 마지막커밋 날짜 -->

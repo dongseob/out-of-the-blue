@@ -1,8 +1,7 @@
 # out of the blue
 
 ## Document
-
-It is a gallery-type personal workspace with grid layout.
+grid layout으로 활용된 개인 작업 공간 갤러리입니다.
 
 ![Image Title](/src/img/ootb_readme.png)
 
